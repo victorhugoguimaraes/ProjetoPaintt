@@ -1,5 +1,4 @@
 // Aluno: Victor Hugo Guimaraes Nascimento
-// Matricula: 232031085 
 
 #ifndef ObjetoGrafico_H
 #define ObjetoGrafico_H
@@ -11,7 +10,7 @@
 
 using namespace std;
 
-// Enumeração das cores disponiveis
+// Enumeraï¿½ï¿½o das cores disponiveis
 enum Cor {
     PRETO, 
     BRANCO, 

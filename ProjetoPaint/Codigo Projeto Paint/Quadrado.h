@@ -1,5 +1,4 @@
-// Autor: Victor Hugo Guimaraes Nascimento, 
-//Matricula: 232031085
+// Autor: Victor Hugo Guimaraes Nascimento
 #ifndef Quadrado_H
 #define Quadrado_H
 

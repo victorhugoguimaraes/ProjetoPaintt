@@ -1,5 +1,4 @@
 // Autor: Victor Hugo Guimaraes Nascimento, 
-//Matricula: 232031085
 #ifndef Oval_H
 #define Oval_H
 
